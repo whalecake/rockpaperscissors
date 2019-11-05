@@ -1,9 +1,17 @@
 .row{
   text-align:center;
-  
+
 }
 #choices{
   display:flex;
   justify-content:space-between;
-  
+
+}
+
+body {
+    background-color: #a7f0a3;
+}
+
+#result {
+    font-size: 40px;
 }
